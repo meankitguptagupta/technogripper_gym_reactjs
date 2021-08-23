@@ -111,9 +111,9 @@ export default function Section10() {
                                                             >
                                                                 <h6 className="bt_bb_headline_tag"><span
                                                                     className="bt_bb_headline_superheadline">ADDRESS</span><span
-                                                                        className="bt_bb_headline_content"><span>244 STOCKWELL RD<br />
-                                                                            4TH FLOOR<br />
-                                                                            BRIXTON, SW9 9SP</span></span></h6>
+                                                                        className="bt_bb_headline_content"><span>Lorem Ipsum,<br />
+                                                                            Amarpali Silicon City<br />
+                                                                            Sector 76, Noida - 201301</span></span></h6>
                                                             </header>
                                                             <div className="bt_bb_separator bt_bb_bottom_spacing_normal bt_bb_border_style_none">
                                                             </div>
@@ -135,8 +135,8 @@ export default function Section10() {
                                                             >
                                                                 <h6 className="bt_bb_headline_tag"><span
                                                                     className="bt_bb_headline_superheadline">CONTACT INFO</span><span
-                                                                        className="bt_bb_headline_content"><span>099 40 70 929<br />
-                                                                            info@zelefitness.com</span></span></h6>
+                                                                        className="bt_bb_headline_content"><span>9560850036<br />
+                                                                            vishal@wtfup.me</span></span></h6>
                                                             </header>
                                                             <div className="bt_bb_separator bt_bb_bottom_spacing_small bt_bb_border_style_none">
                                                             </div>
