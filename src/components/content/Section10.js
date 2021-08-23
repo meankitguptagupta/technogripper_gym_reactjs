@@ -102,7 +102,7 @@ export default function Section10() {
                                                     <div className="bt_bb_google_maps_content_wrapper bt_bb_map_content_wrapper">
                                                         <div className="bt_bb_google_maps_location bt_bb_map_location" data-lat="51.4685997"
                                                             data-lng="-0.1257832"
-                                                            data-icon="https://zele.bold-themes.com/rough/wp-content/uploads/sites/2/2021/05/pin_red.png">
+                                                            data-icon="./assets/images/pin_red.png">
                                                             <div className="bt_bb_separator bt_bb_bottom_spacing_medium bt_bb_border_style_none">
                                                             </div>
                                                             <header
@@ -185,7 +185,7 @@ export default function Section10() {
                 src="https://zele.bold-themes.com/rough/wp-content/uploads/sites/2/2021/04/white_top_wave_02.png"
                 alt="bt_bb_section_top_section_coverage_image" /></div>
             <div className="bt_bb_section_bottom_section_coverage_image"><img
-                src="https://zele.bold-themes.com/rough/wp-content/uploads/sites/2/2021/05/black_bottom_wave_02.png"
+                src="./assets/images/black_bottom_wave_02.png"
                 alt="bt_bb_section_bottom_section_coverage_image" /></div>
         </section>
     )

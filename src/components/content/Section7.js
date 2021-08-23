@@ -94,13 +94,13 @@ export default function Section7() {
                                                 className="bt_bb_image bt_bb_shape_square bt_bb_align_inherit bt_bb_hover_style_simple bt_bb_content_display_always bt_bb_content_align_middle"
                                             >
                                                 <span><img width="600" height="530"
-                                                    src="https://zele.bold-themes.com/rough/wp-content/uploads/sites/2/2021/05/hero_image_07.png"
+                                                    src="./assets/images/hero_image_07.png"
                                                     className="attachment-full size-full"
-                                                    alt="https://zele.bold-themes.com/rough/wp-content/uploads/sites/2/2021/05/hero_image_07.png"
+                                                    alt="./assets/images/hero_image_07.png"
                                                     loading="lazy"
-                                                    data-full_image_src="https://zele.bold-themes.com/rough/wp-content/uploads/sites/2/2021/05/hero_image_07.png"
+                                                    data-full_image_src="./assets/images/hero_image_07.png"
                                                     title="hero_image_07"
-                                                    srcSet="https://zele.bold-themes.com/rough/wp-content/uploads/sites/2/2021/05/hero_image_07.png 600w, https://zele.bold-themes.com/rough/wp-content/uploads/sites/2/2021/05/hero_image_07-320x283.png 320w"
+                                                    srcSet="./assets/images/hero_image_07.png 600w, ./assets/images/hero_image_07-320x283.png 320w"
                                                     sizes="(max-width: 600px) 100vw, 600px" /></span></div>
                                             <div
                                                 className="bt_bb_separator bt_bb_bottom_spacing_normal bt_bb_border_style_none bt_bb_hidden_sm bt_bb_hidden_md bt_bb_hidden_lg">
@@ -129,7 +129,7 @@ export default function Section7() {
                 </div>
             </div>
             <div className="bt_bb_section_bottom_section_coverage_image"><img
-                src="https://zele.bold-themes.com/rough/wp-content/uploads/sites/2/2021/05/black_bottom_wave_02.png"
+                src="./assets/images/black_bottom_wave_02.png"
                 alt="bt_bb_section_bottom_section_coverage_image" /></div>
         </section>
     )

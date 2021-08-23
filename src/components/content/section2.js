@@ -1,7 +1,7 @@
 export default function Section2() {
     return (
         <section id="bt_bb_section612274207c397" data-parallax="0.6" data-parallax-offset="0"
-            data-background_image_src="'https://zele.bold-themes.com/rough/wp-content/uploads/sites/2/2021/05/background_03_01.jpg'"
+            data-background_image_src="'./assets/images/background_03_01.jpg'"
             className="bt_bb_section bt_bb_top_spacing_large bt_bb_bottom_spacing_medium bt_bb_layout_boxed_1200 bt_bb_vertical_align_top btLazyLoadBackground bt_bb_background_image bt_bb_parallax"
             style={{ backgroundImage: 'url(&#039;https://zele.bold-themes.com/rough/wp-content/plugins/bold-page-builder/img/blank.gif&#039;)' }}>
             <div className="bt_bb_port">
@@ -72,11 +72,11 @@ export default function Section2() {
                                                 <div className="bt_bb_card_image_background">
                                                     <div className="bt_bb_image bt_bb_hover_style_zoom-in-from-grayscale"
                                                     ><span><img width="1500" height="1400"
-                                                        src="https://zele.bold-themes.com/rough/wp-content/uploads/sites/2/2021/05/card_image_07.jpg"
+                                                        src="./assets/images/card_image_07.jpg"
                                                         className="attachment-full size-full" alt="STRENGHT &amp; ENDURANCE" loading="lazy"
-                                                        data-full_image_src="https://zele.bold-themes.com/rough/wp-content/uploads/sites/2/2021/05/card_image_07.jpg"
+                                                        data-full_image_src="./assets/images/card_image_07.jpg"
                                                         title="STRENGHT &amp; ENDURANCE"
-                                                        srcSet="https://zele.bold-themes.com/rough/wp-content/uploads/sites/2/2021/05/card_image_07.jpg 1500w, https://zele.bold-themes.com/rough/wp-content/uploads/sites/2/2021/05/card_image_07-640x597.jpg 640w, https://zele.bold-themes.com/rough/wp-content/uploads/sites/2/2021/05/card_image_07-1280x1195.jpg 1280w, https://zele.bold-themes.com/rough/wp-content/uploads/sites/2/2021/05/card_image_07-768x717.jpg 768w, https://zele.bold-themes.com/rough/wp-content/uploads/sites/2/2021/05/card_image_07-320x299.jpg 320w, https://zele.bold-themes.com/rough/wp-content/uploads/sites/2/2021/05/card_image_07-600x560.jpg 600w"
+                                                        srcSet="./assets/images/card_image_07.jpg 1500w, ./assets/images/card_image_07-640x597.jpg 640w, ./assets/images/card_image_07-1280x1195.jpg 1280w, ./assets/images/card_image_07-768x717.jpg 768w, ./assets/images/card_image_07-320x299.jpg 320w, ./assets/images/card_image_07-600x560.jpg 600w"
                                                         sizes="(max-width: 1500px) 100vw, 1500px" /></span></div>
                                                 </div>
                                                 <div className="bt_bb_card_image_text_box">
@@ -103,11 +103,11 @@ export default function Section2() {
                                                 <div className="bt_bb_card_image_background">
                                                     <div className="bt_bb_image bt_bb_hover_style_zoom-in-from-grayscale"
                                                     ><span><img width="1500" height="1400"
-                                                        src="https://zele.bold-themes.com/rough/wp-content/uploads/sites/2/2021/05/card_image_10.jpg"
+                                                        src="./assets/images/card_image_10.jpg"
                                                         className="attachment-full size-full" alt="MIND &amp; BODY" loading="lazy"
-                                                        data-full_image_src="https://zele.bold-themes.com/rough/wp-content/uploads/sites/2/2021/05/card_image_10.jpg"
+                                                        data-full_image_src="./assets/images/card_image_10.jpg"
                                                         title="MIND &amp; BODY"
-                                                        srcSet="https://zele.bold-themes.com/rough/wp-content/uploads/sites/2/2021/05/card_image_10.jpg 1500w, https://zele.bold-themes.com/rough/wp-content/uploads/sites/2/2021/05/card_image_10-640x597.jpg 640w, https://zele.bold-themes.com/rough/wp-content/uploads/sites/2/2021/05/card_image_10-1280x1195.jpg 1280w, https://zele.bold-themes.com/rough/wp-content/uploads/sites/2/2021/05/card_image_10-768x717.jpg 768w, https://zele.bold-themes.com/rough/wp-content/uploads/sites/2/2021/05/card_image_10-320x299.jpg 320w, https://zele.bold-themes.com/rough/wp-content/uploads/sites/2/2021/05/card_image_10-600x560.jpg 600w"
+                                                        srcSet="./assets/images/card_image_10.jpg 1500w, ./assets/images/card_image_10-640x597.jpg 640w, ./assets/images/card_image_10-1280x1195.jpg 1280w, ./assets/images/card_image_10-768x717.jpg 768w, ./assets/images/card_image_10-320x299.jpg 320w, ./assets/images/card_image_10-600x560.jpg 600w"
                                                         sizes="(max-width: 1500px) 100vw, 1500px" /></span></div>
                                                 </div>
                                                 <div className="bt_bb_card_image_text_box">
@@ -146,11 +146,11 @@ export default function Section2() {
                                                 <div className="bt_bb_card_image_background">
                                                     <div className="bt_bb_image bt_bb_hover_style_zoom-in-from-grayscale"
                                                     ><span><img width="1500" height="1400"
-                                                        src="https://zele.bold-themes.com/rough/wp-content/uploads/sites/2/2021/05/card_image_08.jpg"
+                                                        src="./assets/images/card_image_08.jpg"
                                                         className="attachment-full size-full" alt="INDOOR CYCLE" loading="lazy"
-                                                        data-full_image_src="https://zele.bold-themes.com/rough/wp-content/uploads/sites/2/2021/05/card_image_08.jpg"
+                                                        data-full_image_src="./assets/images/card_image_08.jpg"
                                                         title="INDOOR CYCLE"
-                                                        srcSet="https://zele.bold-themes.com/rough/wp-content/uploads/sites/2/2021/05/card_image_08.jpg 1500w, https://zele.bold-themes.com/rough/wp-content/uploads/sites/2/2021/05/card_image_08-640x597.jpg 640w, https://zele.bold-themes.com/rough/wp-content/uploads/sites/2/2021/05/card_image_08-1280x1195.jpg 1280w, https://zele.bold-themes.com/rough/wp-content/uploads/sites/2/2021/05/card_image_08-768x717.jpg 768w, https://zele.bold-themes.com/rough/wp-content/uploads/sites/2/2021/05/card_image_08-320x299.jpg 320w, https://zele.bold-themes.com/rough/wp-content/uploads/sites/2/2021/05/card_image_08-600x560.jpg 600w"
+                                                        srcSet="./assets/images/card_image_08.jpg 1500w, ./assets/images/card_image_08-640x597.jpg 640w, ./assets/images/card_image_08-1280x1195.jpg 1280w, ./assets/images/card_image_08-768x717.jpg 768w, ./assets/images/card_image_08-320x299.jpg 320w, ./assets/images/card_image_08-600x560.jpg 600w"
                                                         sizes="(max-width: 1500px) 100vw, 1500px" /></span></div>
                                                 </div>
                                                 <div className="bt_bb_card_image_text_box">
@@ -177,11 +177,11 @@ export default function Section2() {
                                                 <div className="bt_bb_card_image_background">
                                                     <div className="bt_bb_image bt_bb_hover_style_zoom-in-from-grayscale"
                                                     ><span><img width="1500" height="1400"
-                                                        src="https://zele.bold-themes.com/rough/wp-content/uploads/sites/2/2021/05/card_image_11.jpg"
+                                                        src="./assets/images/card_image_11.jpg"
                                                         className="attachment-full size-full" alt="CROSSFIT WORKOUT" loading="lazy"
-                                                        data-full_image_src="https://zele.bold-themes.com/rough/wp-content/uploads/sites/2/2021/05/card_image_11.jpg"
+                                                        data-full_image_src="./assets/images/card_image_11.jpg"
                                                         title="CROSSFIT WORKOUT"
-                                                        srcSet="https://zele.bold-themes.com/rough/wp-content/uploads/sites/2/2021/05/card_image_11.jpg 1500w, https://zele.bold-themes.com/rough/wp-content/uploads/sites/2/2021/05/card_image_11-640x597.jpg 640w, https://zele.bold-themes.com/rough/wp-content/uploads/sites/2/2021/05/card_image_11-1280x1195.jpg 1280w, https://zele.bold-themes.com/rough/wp-content/uploads/sites/2/2021/05/card_image_11-768x717.jpg 768w, https://zele.bold-themes.com/rough/wp-content/uploads/sites/2/2021/05/card_image_11-320x299.jpg 320w, https://zele.bold-themes.com/rough/wp-content/uploads/sites/2/2021/05/card_image_11-600x560.jpg 600w"
+                                                        srcSet="./assets/images/card_image_11.jpg 1500w, ./assets/images/card_image_11-640x597.jpg 640w, ./assets/images/card_image_11-1280x1195.jpg 1280w, ./assets/images/card_image_11-768x717.jpg 768w, ./assets/images/card_image_11-320x299.jpg 320w, ./assets/images/card_image_11-600x560.jpg 600w"
                                                         sizes="(max-width: 1500px) 100vw, 1500px" /></span></div>
                                                 </div>
                                                 <div className="bt_bb_card_image_text_box">
@@ -217,11 +217,11 @@ export default function Section2() {
                                                 <div className="bt_bb_card_image_background">
                                                     <div className="bt_bb_image bt_bb_hover_style_zoom-in-from-grayscale"
                                                     ><span><img width="1500" height="1400"
-                                                        src="https://zele.bold-themes.com/rough/wp-content/uploads/sites/2/2021/05/card_image_09.jpg"
+                                                        src="./assets/images/card_image_09.jpg"
                                                         className="attachment-full size-full" alt="HIGH INTENSITY" loading="lazy"
-                                                        data-full_image_src="https://zele.bold-themes.com/rough/wp-content/uploads/sites/2/2021/05/card_image_09.jpg"
+                                                        data-full_image_src="./assets/images/card_image_09.jpg"
                                                         title="HIGH INTENSITY"
-                                                        srcSet="https://zele.bold-themes.com/rough/wp-content/uploads/sites/2/2021/05/card_image_09.jpg 1500w, https://zele.bold-themes.com/rough/wp-content/uploads/sites/2/2021/05/card_image_09-640x597.jpg 640w, https://zele.bold-themes.com/rough/wp-content/uploads/sites/2/2021/05/card_image_09-1280x1195.jpg 1280w, https://zele.bold-themes.com/rough/wp-content/uploads/sites/2/2021/05/card_image_09-768x717.jpg 768w, https://zele.bold-themes.com/rough/wp-content/uploads/sites/2/2021/05/card_image_09-320x299.jpg 320w, https://zele.bold-themes.com/rough/wp-content/uploads/sites/2/2021/05/card_image_09-600x560.jpg 600w"
+                                                        srcSet="./assets/images/card_image_09.jpg 1500w, ./assets/images/card_image_09-640x597.jpg 640w, ./assets/images/card_image_09-1280x1195.jpg 1280w, ./assets/images/card_image_09-768x717.jpg 768w, ./assets/images/card_image_09-320x299.jpg 320w, ./assets/images/card_image_09-600x560.jpg 600w"
                                                         sizes="(max-width: 1500px) 100vw, 1500px" /></span></div>
                                                 </div>
                                                 <div className="bt_bb_card_image_text_box">
@@ -248,11 +248,11 @@ export default function Section2() {
                                                 <div className="bt_bb_card_image_background">
                                                     <div className="bt_bb_image bt_bb_hover_style_zoom-in-from-grayscale"
                                                     ><span><img width="1500" height="1400"
-                                                        src="https://zele.bold-themes.com/rough/wp-content/uploads/sites/2/2021/05/card_image_12.jpg"
+                                                        src="./assets/images/card_image_12.jpg"
                                                         className="attachment-full size-full" alt="WHOLE BODY FITNESS" loading="lazy"
-                                                        data-full_image_src="https://zele.bold-themes.com/rough/wp-content/uploads/sites/2/2021/05/card_image_12.jpg"
+                                                        data-full_image_src="./assets/images/card_image_12.jpg"
                                                         title="WHOLE BODY FITNESS"
-                                                        srcSet="https://zele.bold-themes.com/rough/wp-content/uploads/sites/2/2021/05/card_image_12.jpg 1500w, https://zele.bold-themes.com/rough/wp-content/uploads/sites/2/2021/05/card_image_12-640x597.jpg 640w, https://zele.bold-themes.com/rough/wp-content/uploads/sites/2/2021/05/card_image_12-1280x1195.jpg 1280w, https://zele.bold-themes.com/rough/wp-content/uploads/sites/2/2021/05/card_image_12-768x717.jpg 768w, https://zele.bold-themes.com/rough/wp-content/uploads/sites/2/2021/05/card_image_12-320x299.jpg 320w, https://zele.bold-themes.com/rough/wp-content/uploads/sites/2/2021/05/card_image_12-600x560.jpg 600w"
+                                                        srcSet="./assets/images/card_image_12.jpg 1500w, ./assets/images/card_image_12-640x597.jpg 640w, ./assets/images/card_image_12-1280x1195.jpg 1280w, ./assets/images/card_image_12-768x717.jpg 768w, ./assets/images/card_image_12-320x299.jpg 320w, ./assets/images/card_image_12-600x560.jpg 600w"
                                                         sizes="(max-width: 1500px) 100vw, 1500px" /></span></div>
                                                 </div>
                                                 <div className="bt_bb_card_image_text_box">

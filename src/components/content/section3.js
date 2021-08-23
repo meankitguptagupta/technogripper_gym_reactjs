@@ -1,7 +1,7 @@
 export default function Section3() {
     return (
         <section id="bt_bb_section612274207e88c" data-parallax="0.6" data-parallax-offset="0"
-            data-background_image_src="'https://zele.bold-themes.com/rough/wp-content/uploads/sites/2/2021/05/background_03_02.jpg'"
+            data-background_image_src="'./assets/images/background_03_02.jpg'"
             className="bt_bb_section bt_bb_top_spacing_normal bt_bb_bottom_spacing_large bt_bb_layout_boxed_1200 bt_bb_vertical_align_top btLazyLoadBackground bt_bb_background_image bt_bb_parallax"
             style={{ backgroundImage: 'url(&#039;https://zele.bold-themes.com/rough/wp-content/plugins/bold-page-builder/img/blank.gif&#039;)' }}>
             <div className="bt_bb_port">
@@ -19,13 +19,13 @@ export default function Section3() {
                                                 className="bt_bb_image bt_bb_shape_square bt_bb_align_inherit bt_bb_hover_style_simple bt_bb_content_display_always bt_bb_content_align_middle"
                                             >
                                                 <span><img width="340" height="290"
-                                                    src="https://zele.bold-themes.com/rough/wp-content/uploads/sites/2/2021/05/sign_gray.png"
+                                                    src="./assets/images/sign_gray.png"
                                                     className="attachment-full size-full"
-                                                    alt="https://zele.bold-themes.com/rough/wp-content/uploads/sites/2/2021/05/sign_gray.png"
+                                                    alt="./assets/images/sign_gray.png"
                                                     loading="lazy"
-                                                    data-full_image_src="https://zele.bold-themes.com/rough/wp-content/uploads/sites/2/2021/05/sign_gray.png"
+                                                    data-full_image_src="./assets/images/sign_gray.png"
                                                     title="sign_gray"
-                                                    srcSet="https://zele.bold-themes.com/rough/wp-content/uploads/sites/2/2021/05/sign_gray.png 340w, https://zele.bold-themes.com/rough/wp-content/uploads/sites/2/2021/05/sign_gray-320x273.png 320w"
+                                                    srcSet="./assets/images/sign_gray.png 340w, ./assets/images/sign_gray-320x273.png 320w"
                                                     sizes="(max-width: 340px) 100vw, 340px" /></span></div>
                                             <div className="bt_bb_separator bt_bb_bottom_spacing_normal bt_bb_border_style_none"></div>
                                         </div>

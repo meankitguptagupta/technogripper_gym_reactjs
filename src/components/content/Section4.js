@@ -19,12 +19,12 @@ export default function Section4() {
                                                 <div className="bt_bb_floating_image_image" data-speed="0.4" data-direction="">
                                                     <div className="bt_bb_image"><span><img width="680"
                                                         height="300"
-                                                        src="https://zele.bold-themes.com/rough/wp-content/uploads/sites/2/2021/05/floating_image_05.png"
+                                                        src="./assets/images/floating_image_05.png"
                                                         className="attachment-full size-full"
-                                                        alt="https://zele.bold-themes.com/rough/wp-content/uploads/sites/2/2021/05/floating_image_05.png"
-                                                        data-full_image_src="https://zele.bold-themes.com/rough/wp-content/uploads/sites/2/2021/05/floating_image_05.png"
+                                                        alt="./assets/images/floating_image_05.png"
+                                                        data-full_image_src="./assets/images/floating_image_05.png"
                                                         title="floating_image_05"
-                                                        srcSet="https://zele.bold-themes.com/rough/wp-content/uploads/sites/2/2021/05/floating_image_05.png 680w, https://zele.bold-themes.com/rough/wp-content/uploads/sites/2/2021/05/floating_image_05-640x282.png 640w, https://zele.bold-themes.com/rough/wp-content/uploads/sites/2/2021/05/floating_image_05-320x141.png 320w, https://zele.bold-themes.com/rough/wp-content/uploads/sites/2/2021/05/floating_image_05-600x265.png 600w"
+                                                        srcSet="./assets/images/floating_image_05.png 680w, ./assets/images/floating_image_05-640x282.png 640w, ./assets/images/floating_image_05-320x141.png 320w, ./assets/images/floating_image_05-600x265.png 600w"
                                                         sizes="(max-width: 680px) 100vw, 680px" /></span></div>
                                                 </div>
                                             </div>
@@ -33,13 +33,13 @@ export default function Section4() {
                                                 style={{ marginLeft: '-4em' }}
                                             >
                                                 <span><img width="487" height="360"
-                                                    src="https://zele.bold-themes.com/rough/wp-content/uploads/sites/2/2021/05/hero_image_05.png"
+                                                    src="./assets/images/hero_image_05.png"
                                                     className="attachment-full size-full"
-                                                    alt="https://zele.bold-themes.com/rough/wp-content/uploads/sites/2/2021/05/hero_image_05.png"
+                                                    alt="./assets/images/hero_image_05.png"
                                                     loading="lazy"
-                                                    data-full_image_src="https://zele.bold-themes.com/rough/wp-content/uploads/sites/2/2021/05/hero_image_05.png"
+                                                    data-full_image_src="./assets/images/hero_image_05.png"
                                                     title="hero_image_05"
-                                                    srcSet="https://zele.bold-themes.com/rough/wp-content/uploads/sites/2/2021/05/hero_image_05.png 487w, https://zele.bold-themes.com/rough/wp-content/uploads/sites/2/2021/05/hero_image_05-320x237.png 320w"
+                                                    srcSet="./assets/images/hero_image_05.png 487w, ./assets/images/hero_image_05-320x237.png 320w"
                                                     sizes="(max-width: 487px) 100vw, 487px" /></span></div>
                                         </div>
                                     </div>
@@ -115,10 +115,10 @@ export default function Section4() {
                 </div>
             </div>
             <div className="bt_bb_section_top_section_coverage_image"><img
-                src="https://zele.bold-themes.com/rough/wp-content/uploads/sites/2/2021/05/white_top_wave_03.png"
+                src="./assets/images/white_top_wave_03.png"
                 alt="bt_bb_section_top_section_coverage_image" /></div>
             <div className="bt_bb_section_bottom_section_coverage_image"><img
-                src="https://zele.bold-themes.com/rough/wp-content/uploads/sites/2/2021/05/black_bottom_wave_02.png"
+                src="./assets/images/black_bottom_wave_02.png"
                 alt="bt_bb_section_bottom_section_coverage_image" /></div>
         </section>
     )

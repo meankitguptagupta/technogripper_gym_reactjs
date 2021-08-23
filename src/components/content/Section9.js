@@ -44,11 +44,11 @@ export default function Section9() {
                                                 className="bt_bb_image bt_bb_shape_square bt_bb_align_right bt_bb_hover_style_simple bt_bb_content_display_always bt_bb_content_align_middle"
                                             >
                                                 <span><img width="310" height="270"
-                                                    src="https://zele.bold-themes.com/rough/wp-content/uploads/sites/2/2021/05/quote_sign_gray.png"
+                                                    src="./assets/images/quote_sign_gray.png"
                                                     className="attachment-full size-full"
-                                                    alt="https://zele.bold-themes.com/rough/wp-content/uploads/sites/2/2021/05/quote_sign_gray.png"
+                                                    alt="./assets/images/quote_sign_gray.png"
                                                     loading="lazy"
-                                                    data-full_image_src="https://zele.bold-themes.com/rough/wp-content/uploads/sites/2/2021/05/quote_sign_gray.png"
+                                                    data-full_image_src="./assets/images/quote_sign_gray.png"
                                                     title="quote_sign_gray" /></span></div>
                                         </div>
                                     </div>
@@ -80,10 +80,10 @@ export default function Section9() {
                                                                 <div className="bt_bb_testimonial_image">
                                                                     <div className="bt_bb_image" ><span><img width="230"
                                                                         height="210"
-                                                                        src="https://zele.bold-themes.com/rough/wp-content/uploads/sites/2/2021/05/testimonial_04.png"
+                                                                        src="./assets/images/testimonial_04.png"
                                                                         className="attachment-boldthemes_small_square size-boldthemes_small_square"
                                                                         alt="ROBERTA FLANNAGAN"
-                                                                        data-full_image_src="https://zele.bold-themes.com/rough/wp-content/uploads/sites/2/2021/05/testimonial_04.png"
+                                                                        data-full_image_src="./assets/images/testimonial_04.png"
                                                                         title="ROBERTA FLANNAGAN" /></span></div>
                                                                 </div>
                                                                 <div className="bt_bb_testimonial_content">
@@ -106,10 +106,10 @@ export default function Section9() {
                                                                     <div className="bt_bb_testimonial_signature">
                                                                         <div className="bt_bb_image" ><span><img width="160"
                                                                             height="65"
-                                                                            src="https://zele.bold-themes.com/rough/wp-content/uploads/sites/2/2021/05/signature_03.png"
+                                                                            src="./assets/images/signature_03.png"
                                                                             className="attachment-boldthemes_small_square size-boldthemes_small_square"
                                                                             alt="ROBERTA FLANNAGAN"
-                                                                            data-full_image_src="https://zele.bold-themes.com/rough/wp-content/uploads/sites/2/2021/05/signature_03.png"
+                                                                            data-full_image_src="./assets/images/signature_03.png"
                                                                             title="ROBERTA FLANNAGAN" /></span></div>
                                                                     </div>
                                                                     <div className="bt_bb_testimonial_name">
@@ -131,10 +131,10 @@ export default function Section9() {
                                                                 <div className="bt_bb_testimonial_image">
                                                                     <div className="bt_bb_image" ><span><img width="230"
                                                                         height="210"
-                                                                        src="https://zele.bold-themes.com/rough/wp-content/uploads/sites/2/2021/05/testimonial_05.png"
+                                                                        src="./assets/images/testimonial_05.png"
                                                                         className="attachment-boldthemes_small_square size-boldthemes_small_square"
                                                                         alt="ROBERT MULLINGAN"
-                                                                        data-full_image_src="https://zele.bold-themes.com/rough/wp-content/uploads/sites/2/2021/05/testimonial_05.png"
+                                                                        data-full_image_src="./assets/images/testimonial_05.png"
                                                                         title="ROBERT MULLINGAN" /></span></div>
                                                                 </div>
                                                                 <div className="bt_bb_testimonial_content">
@@ -158,10 +158,10 @@ export default function Section9() {
                                                                     <div className="bt_bb_testimonial_signature">
                                                                         <div className="bt_bb_image" ><span><img width="160"
                                                                             height="65"
-                                                                            src="https://zele.bold-themes.com/rough/wp-content/uploads/sites/2/2021/05/signature_03.png"
+                                                                            src="./assets/images/signature_03.png"
                                                                             className="attachment-boldthemes_small_square size-boldthemes_small_square"
                                                                             alt="ROBERT MULLINGAN"
-                                                                            data-full_image_src="https://zele.bold-themes.com/rough/wp-content/uploads/sites/2/2021/05/signature_03.png"
+                                                                            data-full_image_src="./assets/images/signature_03.png"
                                                                             title="ROBERT MULLINGAN" /></span></div>
                                                                     </div>
                                                                     <div className="bt_bb_testimonial_name">
@@ -183,10 +183,10 @@ export default function Section9() {
                                                                 <div className="bt_bb_testimonial_image">
                                                                     <div className="bt_bb_image" ><span><img width="230"
                                                                         height="210"
-                                                                        src="https://zele.bold-themes.com/rough/wp-content/uploads/sites/2/2021/05/testimonial_06.png"
+                                                                        src="./assets/images/testimonial_06.png"
                                                                         className="attachment-boldthemes_small_square size-boldthemes_small_square"
                                                                         alt="SYLVIA RINSKY"
-                                                                        data-full_image_src="https://zele.bold-themes.com/rough/wp-content/uploads/sites/2/2021/05/testimonial_06.png"
+                                                                        data-full_image_src="./assets/images/testimonial_06.png"
                                                                         title="SYLVIA RINSKY" /></span></div>
                                                                 </div>
                                                                 <div className="bt_bb_testimonial_content">
@@ -210,10 +210,10 @@ export default function Section9() {
                                                                     <div className="bt_bb_testimonial_signature">
                                                                         <div className="bt_bb_image" ><span><img width="160"
                                                                             height="65"
-                                                                            src="https://zele.bold-themes.com/rough/wp-content/uploads/sites/2/2021/05/signature_03.png"
+                                                                            src="./assets/images/signature_03.png"
                                                                             className="attachment-boldthemes_small_square size-boldthemes_small_square"
                                                                             alt="SYLVIA RINSKY"
-                                                                            data-full_image_src="https://zele.bold-themes.com/rough/wp-content/uploads/sites/2/2021/05/signature_03.png"
+                                                                            data-full_image_src="./assets/images/signature_03.png"
                                                                             title="SYLVIA RINSKY" /></span></div>
                                                                     </div>
                                                                     <div className="bt_bb_testimonial_name">

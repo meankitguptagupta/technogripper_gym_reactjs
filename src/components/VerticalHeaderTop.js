@@ -10,12 +10,12 @@ export default function VerticalHeaderTop() {
                 <div className="logo">
                     <div className='btCrest'>
                         <a href='https://zele.bold-themes.com/rough/'>
-                            <img src='https://zele.bold-themes.com/rough/wp-content/uploads/sites/2/2021/05/crest-workout.png' className='btCrestImg' alt='Rough' />
+                            <img src='./assets/images/crest-workout.png' className='btCrestImg' alt='Rough' />
                         </a>
                     </div>
                     <span>
                         <a href="https://zele.bold-themes.com/rough/">
-                            <img className="btMainLogo" data-hw="2.0083333333333" src="https://zele.bold-themes.com/rough/wp-content/uploads/sites/2/2021/05/logo_white_03.png" alt="Rough" />
+                            <img className="btMainLogo" data-hw="2.0083333333333" src="./assets/images/logo_white_03.png" alt="Rough" />
                             <img className="btAltLogo" src="https://zele.bold-themes.com/rough/wp-content/uploads/sites/2/2021/07/logo_dark_gym.png" alt="Rough" />
                         </a>
                     </span>

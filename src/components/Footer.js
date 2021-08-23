@@ -20,11 +20,11 @@ export default function Footer() {
                                                         className="bt_bb_image bt_bb_shape_square bt_bb_align_inherit bt_bb_hover_style_simple bt_bb_content_display_always bt_bb_content_align_middle"
                                                     >
                                                         <span><img width="175" height="180"
-                                                            src="https://zele.bold-themes.com/rough/wp-content/uploads/sites/2/2021/05/logo_footer_03.png"
+                                                            src="./assets/images/logo_footer_03.png"
                                                             className="attachment-full size-full"
-                                                            alt="https://zele.bold-themes.com/rough/wp-content/uploads/sites/2/2021/05/logo_footer_03.png"
+                                                            alt="./assets/images/logo_footer_03.png"
                                                             loading="lazy"
-                                                            data-full_image_src="https://zele.bold-themes.com/rough/wp-content/uploads/sites/2/2021/05/logo_footer_03.png"
+                                                            data-full_image_src="./assets/images/logo_footer_03.png"
                                                             title="logo_footer_03" /></span></div>
                                                     <div className="bt_bb_separator bt_bb_bottom_spacing_medium bt_bb_border_style_none"></div>
                                                 </div>

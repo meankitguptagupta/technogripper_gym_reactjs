@@ -1,7 +1,7 @@
 export default function Section5() {
     return (
         <section id="bt_bb_section61227420805ae" data-parallax="0.6" data-parallax-offset="0"
-            data-background_image_src="'https://zele.bold-themes.com/rough/wp-content/uploads/sites/2/2021/05/background_03_03.jpg'"
+            data-background_image_src="'./assets/images/background_03_03.jpg'"
             className="bt_bb_section bt_bb_top_spacing_large bt_bb_bottom_spacing_large bt_bb_color_scheme_1 bt_bb_layout_boxed_1200 bt_bb_vertical_align_top btLazyLoadBackground bt_bb_background_image bt_bb_parallax bt_bb_section_with_bottom_coverage_image"
             style={{ backgroundImage: 'url(&#039;https://zele.bold-themes.com/rough/wp-content/plugins/bold-page-builder/img/blank.gif&#039;)' }}>
             <div className="bt_bb_port">

@@ -1,7 +1,7 @@
 export default function Section8() {
     return (
         <section id="bt_bb_section6122742082adc" data-parallax="0.6" data-parallax-offset="0"
-            data-background_image_src="'https://zele.bold-themes.com/rough/wp-content/uploads/sites/2/2021/05/background_03_04.jpg'"
+            data-background_image_src="'./assets/images/background_03_04.jpg'"
             className="bt_bb_section bt_bb_top_spacing_large bt_bb_bottom_spacing_large bt_bb_color_scheme_1 bt_bb_layout_boxed_1200 bt_bb_vertical_align_top btLazyLoadBackground bt_bb_background_image bt_bb_parallax bt_bb_section_with_bottom_coverage_image"
             style={{ backgroundImage: 'url(&#039;https://zele.bold-themes.com/rough/wp-content/plugins/bold-page-builder/img/blank.gif&#039;)' }}>
             <div className="bt_bb_port">
@@ -69,11 +69,11 @@ export default function Section8() {
                                                 <div className="bt_bb_card_image_background">
                                                     <div className="bt_bb_image bt_bb_hover_style_zoom-in" >
                                                         <span><img width="950" height="1200"
-                                                            src="https://zele.bold-themes.com/rough/wp-content/uploads/sites/2/2021/05/team_04.jpg"
+                                                            src="./assets/images/team_04.jpg"
                                                             className="attachment-full size-full" alt="NICOLAS THOMSON" loading="lazy"
-                                                            data-full_image_src="https://zele.bold-themes.com/rough/wp-content/uploads/sites/2/2021/05/team_04.jpg"
+                                                            data-full_image_src="./assets/images/team_04.jpg"
                                                             title="NICOLAS THOMSON"
-                                                            srcSet="https://zele.bold-themes.com/rough/wp-content/uploads/sites/2/2021/05/team_04.jpg 950w, https://zele.bold-themes.com/rough/wp-content/uploads/sites/2/2021/05/team_04-640x808.jpg 640w, https://zele.bold-themes.com/rough/wp-content/uploads/sites/2/2021/05/team_04-768x970.jpg 768w, https://zele.bold-themes.com/rough/wp-content/uploads/sites/2/2021/05/team_04-320x404.jpg 320w, https://zele.bold-themes.com/rough/wp-content/uploads/sites/2/2021/05/team_04-600x758.jpg 600w"
+                                                            srcSet="./assets/images/team_04.jpg 950w, ./assets/images/team_04-640x808.jpg 640w, ./assets/images/team_04-768x970.jpg 768w, ./assets/images/team_04-320x404.jpg 320w, ./assets/images/team_04-600x758.jpg 600w"
                                                             sizes="(max-width: 950px) 100vw, 950px" /></span></div>
                                                 </div>
                                                 <div className="bt_bb_card_image_text_box">
@@ -131,11 +131,11 @@ export default function Section8() {
                                                 <div className="bt_bb_card_image_background">
                                                     <div className="bt_bb_image bt_bb_hover_style_zoom-in" >
                                                         <span><img width="950" height="1200"
-                                                            src="https://zele.bold-themes.com/rough/wp-content/uploads/sites/2/2021/05/team_05.jpg"
+                                                            src="./assets/images/team_05.jpg"
                                                             className="attachment-full size-full" alt="CHRISTOPHER RONAN" loading="lazy"
-                                                            data-full_image_src="https://zele.bold-themes.com/rough/wp-content/uploads/sites/2/2021/05/team_05.jpg"
+                                                            data-full_image_src="./assets/images/team_05.jpg"
                                                             title="CHRISTOPHER RONAN"
-                                                            srcSet="https://zele.bold-themes.com/rough/wp-content/uploads/sites/2/2021/05/team_05.jpg 950w, https://zele.bold-themes.com/rough/wp-content/uploads/sites/2/2021/05/team_05-640x808.jpg 640w, https://zele.bold-themes.com/rough/wp-content/uploads/sites/2/2021/05/team_05-768x970.jpg 768w, https://zele.bold-themes.com/rough/wp-content/uploads/sites/2/2021/05/team_05-320x404.jpg 320w, https://zele.bold-themes.com/rough/wp-content/uploads/sites/2/2021/05/team_05-600x758.jpg 600w"
+                                                            srcSet="./assets/images/team_05.jpg 950w, ./assets/images/team_05-640x808.jpg 640w, ./assets/images/team_05-768x970.jpg 768w, ./assets/images/team_05-320x404.jpg 320w, ./assets/images/team_05-600x758.jpg 600w"
                                                             sizes="(max-width: 950px) 100vw, 950px" /></span></div>
                                                 </div>
                                                 <div className="bt_bb_card_image_text_box">
@@ -193,11 +193,11 @@ export default function Section8() {
                                                 <div className="bt_bb_card_image_background">
                                                     <div className="bt_bb_image bt_bb_hover_style_zoom-in" >
                                                         <span><img width="950" height="1200"
-                                                            src="https://zele.bold-themes.com/rough/wp-content/uploads/sites/2/2021/05/team_06.jpg"
+                                                            src="./assets/images/team_06.jpg"
                                                             className="attachment-full size-full" alt="SAMANTHA PAUL" loading="lazy"
-                                                            data-full_image_src="https://zele.bold-themes.com/rough/wp-content/uploads/sites/2/2021/05/team_06.jpg"
+                                                            data-full_image_src="./assets/images/team_06.jpg"
                                                             title="SAMANTHA PAUL"
-                                                            srcSet="https://zele.bold-themes.com/rough/wp-content/uploads/sites/2/2021/05/team_06.jpg 950w, https://zele.bold-themes.com/rough/wp-content/uploads/sites/2/2021/05/team_06-640x808.jpg 640w, https://zele.bold-themes.com/rough/wp-content/uploads/sites/2/2021/05/team_06-768x970.jpg 768w, https://zele.bold-themes.com/rough/wp-content/uploads/sites/2/2021/05/team_06-320x404.jpg 320w, https://zele.bold-themes.com/rough/wp-content/uploads/sites/2/2021/05/team_06-600x758.jpg 600w"
+                                                            srcSet="./assets/images/team_06.jpg 950w, ./assets/images/team_06-640x808.jpg 640w, ./assets/images/team_06-768x970.jpg 768w, ./assets/images/team_06-320x404.jpg 320w, ./assets/images/team_06-600x758.jpg 600w"
                                                             sizes="(max-width: 950px) 100vw, 950px" /></span></div>
                                                 </div>
                                                 <div className="bt_bb_card_image_text_box">
